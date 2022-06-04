@@ -4,6 +4,7 @@
   "description": "Running a json server for amirhossein.info",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "nodemon app.js"
   },
   "repository": {

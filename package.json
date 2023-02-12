@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/BlackIQ/amirhossein.info-json-server#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.1"
   }
 }
